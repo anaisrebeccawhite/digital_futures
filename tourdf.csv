@@ -1,0 +1,120 @@
+year,general,general_second,general_third,points,mountains,young,general_prev_tour,young_prev_tour
+1903,GARIN Maurice,POTHIER Lucien,AUGEREAU Fernand,N/A,N/A,N/A,N/A,N/A
+1904,CORNET Henri,DORTIGNACQ Jean-Baptiste,CATTEAU Aloïs,N/A,N/A,N/A,GARIN Maurice,N/A
+1905,TROUSSELIER Louis, Hippolyte,DORTIGNACQ Jean-Baptiste,N/A,N/A,N/A,CORNET Henri,N/A
+1906,POTTIER René,PASSERIEU Georges,TROUSSELIER Louis,N/A,N/A,N/A,TROUSSELIER Louis,N/A
+1907,PETIT-BRETON Lucien,GARRIGOU Gustave,GEORGET Émile,N/A,N/A,N/A,POTTIER René,N/A
+1908,PETIT-BRETON Lucien,FABER François,PASSERIEU Georges,N/A,N/A,N/A,PETIT-BRETON Lucien,N/A
+1909,FABER François,GARRIGOU Gustave,ALAVOINE Jean,N/A,N/A,N/A,PETIT-BRETON Lucien,N/A
+1910,LAPIZE Octave,FABER François,GARRIGOU Gustave,N/A,N/A,N/A,FABER François,N/A
+1911,GARRIGOU Gustave,DUBOC Paul,GEORGET Émile,N/A,N/A,N/A,LAPIZE Octave,N/A
+1912,DEFRAYE Odile,CHRISTOPHE Eugène,GARRIGOU Gustave,N/A,N/A,N/A,GARRIGOU Gustave,N/A
+1913,THYS Philippe,GARRIGOU Gustave,BUYSSE Marcel,N/A,N/A,N/A,DEFRAYE Odile,N/A
+1914,THYS Philippe,PÉLISSIER Henri,ALAVOINE Jean,N/A,N/A,N/A,THYS Philippe,N/A
+1915,LAMBOT Firmin,ALAVOINE Jean,CHRISTOPHE Eugène,N/A,N/A,N/A,THYS Philippe,N/A
+1916,THYS Philippe,HEUSGHEM Hector,LAMBOT Firmin,N/A,N/A,N/A,LAMBOT Firmin,N/A
+1917,WINNER No,No Winner (WW1),No Winner (WW1),N/A,N/A,N/A,THYS Philippe,N/A
+1918,WINNER No,No Winner (WW1),No Winner (WW1),N/A,N/A,N/A,WINNER No,N/A
+1919,WINNER No,No Winner (WW1),No Winner (WW1),N/A,N/A,N/A,WINNER No,N/A
+1920,WINNER No,No Winner (WW1),No Winner (WW1),N/A,N/A,N/A,WINNER No,N/A
+1921,SCIEUR Léon,HEUSGHEM Hector,BARTHÉLEMY Honoré,N/A,N/A,N/A,WINNER No,N/A
+1922,LAMBOT Firmin,ALAVOINE Jean,SELLIER Félix,N/A,N/A,N/A,SCIEUR Léon,N/A
+1923,PÉLISSIER Henri,BOTTECCHIA Ottavio,BELLENGER Romain,N/A,N/A,N/A,LAMBOT Firmin,N/A
+1924,BOTTECCHIA Ottavio,FRANTZ Nicolas,BUYSSE Lucien,N/A,N/A,N/A,PÉLISSIER Henri,N/A
+1925,BOTTECCHIA Ottavio,BUYSSE Lucien,AYMO Bartolomeo,N/A,N/A,N/A,BOTTECCHIA Ottavio,N/A
+1926,BUYSSE Lucien,FRANTZ Nicolas,AYMO Bartolomeo,N/A,N/A,N/A,BOTTECCHIA Ottavio,N/A
+1927,FRANTZ Nicolas,DE Maurice, Julien,N/A,N/A,N/A,BUYSSE Lucien,N/A
+1928,FRANTZ Nicolas,LEDUCQ André,DE Maurice,N/A,N/A,N/A,FRANTZ Nicolas,N/A
+1929,DE Maurice,PANCERA Giuseppe,DEMUYSÈRE Jef,N/A,N/A,N/A,FRANTZ Nicolas,N/A
+1930,LEDUCQ André,GUERRA Learco,MAGNE Antonin,N/A,N/A,N/A,DE Maurice,N/A
+1931,MAGNE Antonin,DEMUYSÈRE Jef,PESENTI Antonio,N/A,N/A,N/A,LEDUCQ André,N/A
+1932,LEDUCQ André,STOEPEL Kurt,CAMUSSO Francesco,N/A,N/A,N/A,MAGNE Antonin,N/A
+1933,SPEICHER Georges,GUERRA Learco,MARTANO Giuseppe,N/A,Vicente Trueba,N/A,LEDUCQ André,N/A
+1934,MAGNE Antonin,MARTANO Giuseppe,LAPÉBIE Roger,N/A,René Vietto,N/A,SPEICHER Georges,N/A
+1935,MAES Romain,MORELLI Ambrogio,VERVAECKE Félicien,N/A,Félicien Vervaecke,N/A,MAGNE Antonin,N/A
+1936,MAES Sylvère,MAGNE Antonin,VERVAECKE Félicien,N/A,Julián Berrendero,N/A,MAES Romain,N/A
+1937,LAPÉBIE Roger,VICINI Mario,AMBERG Léo,N/A,Félicien Vervaecke,N/A,MAES Sylvère,N/A
+1938,BARTALI Gino,VERVAECKE Félicien,COSSON Victor,N/A,Gino Bartali,N/A,LAPÉBIE Roger,N/A
+1939,MAES Sylvère,VIETTO René,VLAEMYNCK Lucien,N/A,Sylvère Maes,N/A,BARTALI Gino,N/A
+1940,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,MAES Sylvère,N/A
+1941,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1942,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1943,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1944,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1945,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1946,WINNER No,No Winner (WW2),No Winner (WW2),N/A,N/A,N/A,WINNER No,N/A
+1947,ROBIC Jean,FACHLEITNER Édouard,BRAMBILLA Pierre,N/A,Pierre Brambilla,N/A,WINNER No,N/A
+1948,BARTALI Gino,SCHOTTE Briek,LAPÉBIE Guy,N/A,Gino Bartali,N/A,ROBIC Jean,N/A
+1949,COPPI Fausto,BARTALI Gino,MARINELLI Jacques,N/A,Fausto Coppi,N/A,BARTALI Gino,N/A
+1950,KÜBLER Ferdinand,OCKERS Stan,BOBET Louison,N/A,Louison Bobet,N/A,COPPI Fausto,N/A
+1951,KOBLET Hugo,GÉMINIANI Raphaël,LAZARIDÈS Lucien,N/A,Raphaël Géminiani,N/A,KÜBLER Ferdinand,N/A
+1952,COPPI Fausto,OCKERS Stan,RUIZ Bernardo,N/A,Fausto Coppi,N/A,KOBLET Hugo,N/A
+1953,BOBET Louison,MALLÉJAC Jean,ASTRUA Giancarlo,Fritz Schär,Jesús Loroño,N/A,COPPI Fausto,N/A
+1954,BOBET Louison,KÜBLER Ferdy,SCHAER Fritz,Ferdinand Kübler,Federico Bahamontes,N/A,BOBET Louison,N/A
+1955,BOBET Louison,BRANKART Jean,GAUL Charly,Stan Ockers,Charly Gaul,N/A,BOBET Louison,N/A
+1956,WALKOWIAK Roger,BAUVIN Gilbert,ANDRIAENSSENS Jan,Stan Ockers,Charly Gaul,N/A,BOBET Louison,N/A
+1957,ANQUETIL Jacques,JANSSENS Marcel,CHRISTIAN Adolf,Jean Forestier,Gastone Nencini,N/A,WALKOWIAK Roger,N/A
+1958,GAUL Charly,FAVERO Vito,GÉMINIANI Raphaël,Jean Graczyk,Federico Bahamontes,N/A,ANQUETIL Jacques,N/A
+1959,BAHAMONTES Federico,ANGLADE Henry,ANQUETIL Jacques,André Darrigade,Federico Bahamontes,N/A,GAUL Charly,N/A
+1960,NENCINI Gastone,BATTISTINI Graziano,ANDRIAENSSENS Jan,Jean Graczyk,Imerio Massignan,N/A,BAHAMONTES Federico,N/A
+1961,ANQUETIL Jacques,CARLESI Guido,GAUL Charly,André Darrigade,Imerio Massignan,N/A,NENCINI Gastone,N/A
+1962,ANQUETIL Jacques,PLANCKAERT Josef,POULIDOR Raymond,Rudi Altig,Federico Bahamontes,N/A,ANQUETIL Jacques,N/A
+1963,ANQUETIL Jacques,BAHAMONTES Federico,PEREZ-FRANCÉS José,Rik Van Looy,Federico Bahamontes,N/A,ANQUETIL Jacques,N/A
+1964,ANQUETIL Jacques,POULIDOR Raymond,BAHAMONTES Federico,Jan Janssen,Federico Bahamontes,N/A,ANQUETIL Jacques,N/A
+1965,GIMONDI Felice,POULIDOR Raymond,MOTTA Gianni,Jan Janssen,Julio Jiménez,N/A,ANQUETIL Jacques,N/A
+1966,AIMAR Lucien,JANSSEN Jan,POULIDOR Raymond,Willy Planckaert,Julio Jiménez,N/A,GIMONDI Felice,N/A
+1967,PINGEON Roger,JIMÉNEZ Julio,BALMAMION Franco,Jan Janssen,Julio Jiménez,N/A,AIMAR Lucien,N/A
+1968,JANSSEN Jan,SPRINGEL HermanVan,BRACKE Ferdinand,Franco Bitossi,Aurelio González Puente,N/A,PINGEON Roger,N/A
+1969,MERCKX Eddy,PINGEON Roger,POULIDOR Raymond,Eddy Merckx,Eddy Merckx,N/A,JANSSEN Jan,N/A
+1970,MERCKX Eddy,ZOETEMELK Joop,PETTERSSON Gösta,Walter Godefroot,Eddy Merckx,N/A,MERCKX Eddy,N/A
+1971,MERCKX Eddy,ZOETEMELK Joop, Lucien,Eddy Merckx,Lucien Van Impe,N/A,MERCKX Eddy,N/A
+1972,MERCKX Eddy,GIMONDI Felice,POULIDOR Raymond,Eddy Merckx,Lucien Van Impe,N/A,MERCKX Eddy,N/A
+1973,OCAÑA Luis,THÉVENET Bernard,FUENTE José-Manuel,Herman Van Springel,Pedro Torres,N/A,MERCKX Eddy,N/A
+1974,MERCKX Eddy,POULIDOR Raymond,LÓPEZ-CARRIL Vicente,Patrick Sercu,Domingo Perurena,N/A,OCAÑA Luis,N/A
+1975,THÉVENET Bernard,MERCKX Eddy, Lucien,Rik Van Linden,Lucien Van Impe,MOSER Francesco,MERCKX Eddy,N/A
+1976,VAN Lucien,ZOETEMELK Joop,POULIDOR Raymond,Freddy Maertens,Giancarlo Bellini,MARTÍNEZ Enrique,THÉVENET Bernard,MOSER Francesco
+1977,THÉVENET Bernard,KUIPER Hennie, Lucien,Jacques Esclassan,Lucien Van Impe,THURAU Dietrich,VAN Lucien,MARTÍNEZ Enrique
+1978,HINAULT Bernard,ZOETEMELK Joop,AGOSTINHO Joaquim,Freddy Maertens,Mariano Martínez,LUBBERDING Henk,THÉVENET Bernard,THURAU Dietrich
+1979,HINAULT Bernard,ZOETEMELK Joop,AGOSTINHO Joaquim,Bernard Hinault,Giovanni Battaglin,BERNAUDEAU Jean-René,HINAULT Bernard,LUBBERDING Henk
+1980,ZOETEMELK Joop,KUIPER Hennie,MARTIN Raymond,Rudy Pevenage,Raymond Martin,VAN Johan,HINAULT Bernard,BERNAUDEAU Jean-René
+1981,HINAULT Bernard,VAN Lucien,ALBAN Robert,Freddy Maertens,Lucien Van Impe,WINNEN Peter,ZOETEMELK Joop,VAN Johan
+1982,HINAULT Bernard,ZOETEMELK Joop,VAN Johan,Sean Kelly,Bernard Vallet,ANDERSON Phil,HINAULT Bernard,WINNEN Peter
+1983,FIGNON Laurent,ARROYO Angel,WINNEN Peter,Sean Kelly,Lucien Van Impe,FIGNON Laurent,HINAULT Bernard,ANDERSON Phil
+1984,FIGNON Laurent,HINAULT Bernard,LEMOND Greg,Frank Hoste,Robert Millar,LEMOND Greg,FIGNON Laurent,FIGNON Laurent
+1985,HINAULT Bernard,LEMOND Greg,ROCHE Stephen,Sean Kelly,Luis Herrera,PARRA Fabio,FIGNON Laurent,LEMOND Greg
+1986,LEMOND Greg,HINAULT Bernard,ZIMMERMANN Urs,Eric Vanderaerden,Bernard Hinault,HAMPSTEN Andrew,HINAULT Bernard,PARRA Fabio
+1987,ROCHE Stephen,DELGADO Pedro,BERNARD Jean-François,Jean-Paul van Poppel,Luis Herrera,ALCALÁ Raúl,LEMOND Greg,HAMPSTEN Andrew
+1988,DELGADO Pedro,ROOKS Steven,PARRA Fabio,Eddy Planckaert,Steven Rooks,BREUKINK Erik,ROCHE Stephen,ALCALÁ Raúl
+1989,LEMOND Greg,FIGNON Laurent,DELGADO Pedro,Sean Kelly,Gert-Jan Theunisse,PHILIPOT Fabrice,DELGADO Pedro,BREUKINK Erik
+1990,LEMOND Greg,CHIAPPUCCI Claudio,BREUKINK Erik,Olaf Ludwig,Thierry Claveyrolat,DELION Gilles,LEMOND Greg,PHILIPOT Fabrice
+1991,INDURAIN Miguel,BUGNO Gianni,CHIAPPUCCI Claudio,Djamolidine Abdoujaparov,Claudio Chiappucci,MEJÍA Álvaro,LEMOND Greg,DELION Gilles
+1992,INDURAIN Miguel,CHIAPPUCCI Claudio,BUGNO Gianni,Laurent Jalabert,Claudio Chiappucci,BOUWMANS Eddy,INDURAIN Miguel,MEJÍA Álvaro
+1993,INDURAIN Miguel,ROMINGER Tony,JASKULA Zenon,Djamolidine Abdoujaparov,Tony Rominger,MARTÍN Antonio,INDURAIN Miguel,BOUWMANS Eddy
+1994,INDURAIN Miguel,UGRUMOV Piotr,PANTANI Marco,Djamolidine Abdoujaparov,Richard Virenque,PANTANI Marco,INDURAIN Miguel,MARTÍN Antonio
+1995,INDURAIN Miguel,ZÜLLE Alex,RIIS Bjarne,Laurent Jalabert,Richard Virenque,PANTANI Marco,INDURAIN Miguel,PANTANI Marco
+1996,RIIS Bjarne,ULLRICH Jan,VIRENQUE Richard,Erik Zabel,Richard Virenque,ULLRICH Jan,INDURAIN Miguel,PANTANI Marco
+1997,ULLRICH Jan,VIRENQUE Richard,PANTANI Marco,Erik Zabel,Richard Virenque,ULLRICH Jan,RIIS Bjarne,ULLRICH Jan
+1998,PANTANI Marco,ULLRICH Jan,JULICH Bobby,Erik Zabel,Christophe Rinero,ULLRICH Jan,ULLRICH Jan,ULLRICH Jan
+1999,WINNER No,ZÜLLE Alex,ESCARTIN Fernando,Erik Zabel,Richard Virenque,SALMON Benoît,PANTANI Marco,ULLRICH Jan
+2000,WINNER No,ULLRICH Jan,BELOKI Joseba,Erik Zabel,Santiago Botero,MANCEBO Francisco,WINNER No,SALMON Benoît
+2001,WINNER No,ULLRICH Jan,BELOKI Joseba,Erik Zabel,Laurent Jalabert,SEVILLA Óscar,WINNER No,MANCEBO Francisco
+2002,WINNER No,BELOKI Joseba,RUMSAS Raimondas,Robbie McEwen,Laurent Jalabert,BASSO Ivan,WINNER No,SEVILLA Óscar
+2003,WINNER No,ULLRICH Jan,VINOKOUROV Alexandre,Baden Cooke,Richard Virenque,MENCHOV Denis,WINNER No,BASSO Ivan
+2004,WINNER No,KLÖDEN Andreas,BASSO Ivan,Robbie McEwen,Richard Virenque,KARPETS Vladimir,WINNER No,MENCHOV Denis
+2005,WINNER No,BASSO Ivan,ULLRICH Jan,Thor Hushovd,Michael Rasmussen,POPOVYCH Yaroslav,WINNER No,KARPETS Vladimir
+2006,PEREIRO Óscar,KLÖDEN Andreas,SASTRE Carlos,Robbie McEwen,Michael Rasmussen,CUNEGO Damiano,WINNER No,POPOVYCH Yaroslav
+2007,CONTADOR Alberto,EVANS Cadel,LEIPHEIMER Levi,Tom Boonen,Mauricio Soler,CONTADOR Alberto,PEREIRO Óscar,CUNEGO Damiano
+2008,SASTRE Carlos,EVANS Cadel,KOHL Bernhard,Óscar Freire,Carlos Sastre,SCHLECK Andy,CONTADOR Alberto,CONTADOR Alberto
+2009,CONTADOR Alberto,SCHLECK Andy,ARMSTRONG Lance,Thor Hushovd,Egoi Martínez,SCHLECK Andy,SASTRE Carlos,SCHLECK Andy
+2010,SCHLECK Andy,MENCHOV Denis,SÃ¡NCHEZ Samuel,Alessandro Petacchi,Anthony Charteau,SCHLECK Andy,CONTADOR Alberto,SCHLECK Andy
+2011,EVANS Cadel,SCHLECK Andy,SCHLECK Frank,Mark Cavendish,Samuel Sánchez,ROLLAND Pierre,SCHLECK Andy,SCHLECK Andy
+2012,WIGGINS Bradley,FROOME Christopher,NIBALI Vincenzo,Peter Sagan,Thomas Voeckler,VAN Tejay,EVANS Cadel,ROLLAND Pierre
+2013,FROOME Chris,QUINTANA Nairo,RODRIGUEZ Joaquin,Peter Sagan,Nairo Quintana,QUINTANA Nairo,WIGGINS Bradley,VAN Tejay
+2014,NIBALI Vincenzo,PERAUD Jean-Christophe,PINOT Thibaut,Peter Sagan,Rafał  Majka,PINOT Thibaut,FROOME Chris,QUINTANA Nairo
+2015,FROOME Chris,QUINTANA Nairo,VALVERDE Alejandro,Peter Sagan,Chris Froome,QUINTANA Nairo,NIBALI Vincenzo,PINOT Thibaut
+2016,FROOME Chris,BARDET Romain,QUINTANA Nairo,Peter Sagan,Rafał Majka,YATES Adam,FROOME Chris,QUINTANA Nairo
+2017,FROOME Chris,URAN Rigoberto,BARDET Romain,Michael Matthews,Warren Barguil,YATES Simon,FROOME Chris,YATES Adam
+2018,THOMAS Geraint,DUMOULIN Tom,FROOME Chris,Peter Sagan,Julian Alaphilippe,LATOUR Pierre,FROOME Chris,YATES Simon
+2019,BERNAL Egan,THOMAS Geraint,KRUIJSWIJK Steven,Peter Sagan,Romain Bardet,BERNAL Egan,THOMAS Geraint,LATOUR Pierre
+2020,POGAČAR Tadej,ROGLIC Primoz,PORTE Richie,Sam Bennett,Tadej Pogačar,POGAČAR Tadej,BERNAL Egan,BERNAL Egan
+2021,POGAČAR Tadej,VINGEGAARD Jonas,CARAPAZ Richard,Mark Cavendish,Tadej Pogačar,POGAČAR Tadej,POGAČAR Tadej,POGAČAR Tadej
